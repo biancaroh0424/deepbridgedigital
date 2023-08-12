@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/deepbridgedigital/static/css/main.78756940.css",
-    "main.js": "/deepbridgedigital/static/js/main.a368f4bb.js",
+    "main.css": "/deepbridgedigital/static/css/main.2842e61a.css",
+    "main.js": "/deepbridgedigital/static/js/main.225aac3d.js",
     "static/js/872.c40912cc.chunk.js": "/deepbridgedigital/static/js/872.c40912cc.chunk.js",
     "static/js/227.46a54b89.chunk.js": "/deepbridgedigital/static/js/227.46a54b89.chunk.js",
     "static/js/526.cbd14f94.chunk.js": "/deepbridgedigital/static/js/526.cbd14f94.chunk.js",
@@ -18,9 +18,10 @@
     "static/media/klaytn_ico.svg": "/deepbridgedigital/static/media/klaytn_ico.8db47f119571ad83115ac1e32c07e4bf.svg",
     "static/media/lg_ico.svg": "/deepbridgedigital/static/media/lg_ico.2122e86e02511c3d7a494a4b56470383.svg",
     "static/media/send.svg": "/deepbridgedigital/static/media/send.6f43246bb994a2d51b105568f933df1c.svg",
+    "static/media/check_ico.svg": "/deepbridgedigital/static/media/check_ico.5358ac48c022305c332c.svg",
     "index.html": "/deepbridgedigital/index.html",
-    "main.78756940.css.map": "/deepbridgedigital/static/css/main.78756940.css.map",
-    "main.a368f4bb.js.map": "/deepbridgedigital/static/js/main.a368f4bb.js.map",
+    "main.2842e61a.css.map": "/deepbridgedigital/static/css/main.2842e61a.css.map",
+    "main.225aac3d.js.map": "/deepbridgedigital/static/js/main.225aac3d.js.map",
     "872.c40912cc.chunk.js.map": "/deepbridgedigital/static/js/872.c40912cc.chunk.js.map",
     "227.46a54b89.chunk.js.map": "/deepbridgedigital/static/js/227.46a54b89.chunk.js.map",
     "526.cbd14f94.chunk.js.map": "/deepbridgedigital/static/js/526.cbd14f94.chunk.js.map",
@@ -29,7 +30,7 @@
     "787.07c6a3fc.chunk.js.map": "/deepbridgedigital/static/js/787.07c6a3fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78756940.css",
-    "static/js/main.a368f4bb.js"
+    "static/css/main.2842e61a.css",
+    "static/js/main.225aac3d.js"
   ]
 }
