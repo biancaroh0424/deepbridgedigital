@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/deepbridgedigital/static/css/main.21564907.css",
+    "main.js": "/deepbridgedigital/static/js/main.642dd972.js",
+    "static/js/872.c40912cc.chunk.js": "/deepbridgedigital/static/js/872.c40912cc.chunk.js",
+    "static/js/227.46a54b89.chunk.js": "/deepbridgedigital/static/js/227.46a54b89.chunk.js",
+    "static/js/526.cbd14f94.chunk.js": "/deepbridgedigital/static/js/526.cbd14f94.chunk.js",
+    "static/js/232.5cca7e4a.chunk.js": "/deepbridgedigital/static/js/232.5cca7e4a.chunk.js",
+    "static/js/237.bd2ab11f.chunk.js": "/deepbridgedigital/static/js/237.bd2ab11f.chunk.js",
+    "static/js/787.07c6a3fc.chunk.js": "/deepbridgedigital/static/js/787.07c6a3fc.chunk.js",
+    "static/media/connection_background.png": "/deepbridgedigital/static/media/connection_background.b3649f07563b9058b40b.png",
+    "static/media/deepbridge_logo.svg": "/deepbridgedigital/static/media/deepbridge_logo.fe3c6985accede61b97d04108fd77375.svg",
+    "static/media/floatinglogo.svg": "/deepbridgedigital/static/media/floatinglogo.17c4bf0e19e4c9369f4ffc5a9fa17263.svg",
+    "static/media/sidebarbutton.svg": "/deepbridgedigital/static/media/sidebarbutton.3a0556da044ae52b6c17a51fcbae26d2.svg",
+    "static/media/send.svg": "/deepbridgedigital/static/media/send.6f43246bb994a2d51b105568f933df1c.svg",
+    "index.html": "/deepbridgedigital/index.html",
+    "main.21564907.css.map": "/deepbridgedigital/static/css/main.21564907.css.map",
+    "main.642dd972.js.map": "/deepbridgedigital/static/js/main.642dd972.js.map",
+    "872.c40912cc.chunk.js.map": "/deepbridgedigital/static/js/872.c40912cc.chunk.js.map",
+    "227.46a54b89.chunk.js.map": "/deepbridgedigital/static/js/227.46a54b89.chunk.js.map",
+    "526.cbd14f94.chunk.js.map": "/deepbridgedigital/static/js/526.cbd14f94.chunk.js.map",
+    "232.5cca7e4a.chunk.js.map": "/deepbridgedigital/static/js/232.5cca7e4a.chunk.js.map",
+    "237.bd2ab11f.chunk.js.map": "/deepbridgedigital/static/js/237.bd2ab11f.chunk.js.map",
+    "787.07c6a3fc.chunk.js.map": "/deepbridgedigital/static/js/787.07c6a3fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21564907.css",
+    "static/js/main.642dd972.js"
+  ]
+}
