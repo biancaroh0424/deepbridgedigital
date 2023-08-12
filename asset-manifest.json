@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/deepbridgedigital/static/css/main.21564907.css",
-    "main.js": "/deepbridgedigital/static/js/main.642dd972.js",
+    "main.css": "/deepbridgedigital/static/css/main.78756940.css",
+    "main.js": "/deepbridgedigital/static/js/main.a368f4bb.js",
     "static/js/872.c40912cc.chunk.js": "/deepbridgedigital/static/js/872.c40912cc.chunk.js",
     "static/js/227.46a54b89.chunk.js": "/deepbridgedigital/static/js/227.46a54b89.chunk.js",
     "static/js/526.cbd14f94.chunk.js": "/deepbridgedigital/static/js/526.cbd14f94.chunk.js",
@@ -9,13 +9,18 @@
     "static/js/237.bd2ab11f.chunk.js": "/deepbridgedigital/static/js/237.bd2ab11f.chunk.js",
     "static/js/787.07c6a3fc.chunk.js": "/deepbridgedigital/static/js/787.07c6a3fc.chunk.js",
     "static/media/connection_background.png": "/deepbridgedigital/static/media/connection_background.b3649f07563b9058b40b.png",
+    "static/media/bigsunrise_ico.svg": "/deepbridgedigital/static/media/bigsunrise_ico.334087f98a74719332e06b16ac872324.svg",
     "static/media/deepbridge_logo.svg": "/deepbridgedigital/static/media/deepbridge_logo.fe3c6985accede61b97d04108fd77375.svg",
+    "static/media/cl_ico.svg": "/deepbridgedigital/static/media/cl_ico.760a4ad8ea9afdb27e6adb5edf426de6.svg",
     "static/media/floatinglogo.svg": "/deepbridgedigital/static/media/floatinglogo.17c4bf0e19e4c9369f4ffc5a9fa17263.svg",
     "static/media/sidebarbutton.svg": "/deepbridgedigital/static/media/sidebarbutton.3a0556da044ae52b6c17a51fcbae26d2.svg",
+    "static/media/yolo_ico.svg": "/deepbridgedigital/static/media/yolo_ico.f5e253c77f7ac375dc0c74e27b1301dc.svg",
+    "static/media/klaytn_ico.svg": "/deepbridgedigital/static/media/klaytn_ico.8db47f119571ad83115ac1e32c07e4bf.svg",
+    "static/media/lg_ico.svg": "/deepbridgedigital/static/media/lg_ico.2122e86e02511c3d7a494a4b56470383.svg",
     "static/media/send.svg": "/deepbridgedigital/static/media/send.6f43246bb994a2d51b105568f933df1c.svg",
     "index.html": "/deepbridgedigital/index.html",
-    "main.21564907.css.map": "/deepbridgedigital/static/css/main.21564907.css.map",
-    "main.642dd972.js.map": "/deepbridgedigital/static/js/main.642dd972.js.map",
+    "main.78756940.css.map": "/deepbridgedigital/static/css/main.78756940.css.map",
+    "main.a368f4bb.js.map": "/deepbridgedigital/static/js/main.a368f4bb.js.map",
     "872.c40912cc.chunk.js.map": "/deepbridgedigital/static/js/872.c40912cc.chunk.js.map",
     "227.46a54b89.chunk.js.map": "/deepbridgedigital/static/js/227.46a54b89.chunk.js.map",
     "526.cbd14f94.chunk.js.map": "/deepbridgedigital/static/js/526.cbd14f94.chunk.js.map",
@@ -24,7 +29,7 @@
     "787.07c6a3fc.chunk.js.map": "/deepbridgedigital/static/js/787.07c6a3fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21564907.css",
-    "static/js/main.642dd972.js"
+    "static/css/main.78756940.css",
+    "static/js/main.a368f4bb.js"
   ]
 }
